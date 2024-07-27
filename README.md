@@ -13,8 +13,8 @@
  <!-- Contact -->
   <p float="left">
     <h1> &lt;/ Contact &gt; </h1>
-    <p float="left">
-       <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//842814386191859722.gif" width=249 height=245 width="auto" align="right">
+    <div align="center" dir="auto">
+          <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//842814386191859722.gif" width=249 height=245 width="auto" align="right">
             <a href="https://www.linkedin.com/in/zavents/" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
             </a> <br>
@@ -35,6 +35,7 @@
             </a> <br>
    
       <br> <br> <br>
+      </div>
     </p>
   </p>
 </p>
