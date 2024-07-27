@@ -16,25 +16,25 @@
     <h1>&nbsp; &lt;/ Contact &gt; </h1>
     <div align="left" dir="auto">
           <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//842814386191859722.gif" width=249 height=245 width="auto" align="right">
-            <a href="https://www.linkedin.com/in/zavents/" rel="nofollow">
+            <a href="https://www.linkedin.com/in/zavents/" target="_blank" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
             </a> Linkedin <br>
-            <a href="https://discord.com/users/zavents" rel="nofollow">
+            <a href="https://discord.com/users/zavents" target="_blank" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="max-width: 100%;">
             </a> Discord <br>
-            <a href="https://www.youtube.com/channel/UCi0WyVZ-cVwIP-TCejYtMcA" rel="nofollow">
+            <a href="https://www.youtube.com/channel/UCi0WyVZ-cVwIP-TCejYtMcA" target="_blank" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="max-width: 100%;">
             </a> Managing This Youtube <br>
-            <a href="https://www.youtube.com/@zavents" rel="nofollow">
+            <a href="https://www.youtube.com/@zavents" target="_blank" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="max-width: 100%;">
             </a> My Actual Youtube <br>
-            <a href="https://www.instagram.com/wldan_zf/" rel="nofollow">
+            <a href="https://www.instagram.com/wldan_zf/" target="_blank" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="max-width: 100%;">
             </a> Instagram <br>
-            <a href="https://www.facebook.com/WildanZavents/" rel="nofollow"> 
+            <a href="https://www.facebook.com/WildanZavents/" target="_blank" rel="nofollow"> 
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="max-width: 100%;">
             </a> Facebook <br>
-            <a href="https://twitter.com/wildanzv/" rel="nofollow"> 
+            <a href="https://twitter.com/wildanzv/" target="_blank" rel="nofollow"> 
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="max-width: 100%;">
             </a> Twitter <br>
             <br> <br> <br>
@@ -47,7 +47,7 @@
   <p float="left">
     <ul>
       <li> 
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
       </li>
       <li>
         <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
