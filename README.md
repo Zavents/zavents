@@ -10,9 +10,10 @@
     Currently is a High School, majoring in software engineering at SMK Negeri 2 Pekanbaru <br/>
     Managing - <a href="https://rawkuma.com" target="_blank"> https://rawkuma.com </a>
   </p>
+  
  <!-- Contact -->
    <p float="left">
-    <h1> &lt;/ Contact &gt; </h1>
+    <h1>&nbsp; &lt;/ Contact &gt; </h1>
     <div align="left" dir="auto">
           <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//842814386191859722.gif" width=249 height=245 width="auto" align="right">
             <a href="https://www.linkedin.com/in/zavents/" rel="nofollow">
@@ -39,9 +40,12 @@
             <br> <br> <br>
       </div>
     </p> 
+
+    
+<!-- tech -->
     <p float="left">
-  <img src="https://tenor.com/view/blue-archive-hoshino-teary-eyes-gif-25817080" width=249 height=245 width="auto" align="right">
-  <h1> &lt;/ Tech Stack &gt; </h1>
+  <img src="https://cdn.discordapp.com/attachments/906608326274609152/1266783574464528555/808829950840799292.gif?ex=66a667a3&is=66a51623&hm=7328351cb3576849148cb1ce6db71aa586229d721471df39f97a89de1d39699d&" width=249 height=245 width="auto" align="right">
+  <h1>&nbsp; &lt;/ Tech Stack &gt; </h1>
   <p float="left">
     <ul>
       <li> 
