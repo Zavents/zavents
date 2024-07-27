@@ -5,7 +5,7 @@
   
   <!-- Info -->
   <p float="left">
-    <h1> &lt;/ Zavents &gt; </h1>
-    Currently is a High School, majoring in software engineering at SMK Negeri 2 Pekanbaru <br/>
-    Managing - <a href="https://rawkuma.com"> https://rawkuma.com </a>
+    <h1>&nbsp; &lt;/ Zavents &gt; </h1>
+   &nbsp; Currently is a High School, majoring in software engineering at SMK Negeri 2 Pekanbaru <br/>
+   &nbsp; Managing - <a href="https://rawkuma.com" target="_blank"> https://rawkuma.com </a>
   </p>
