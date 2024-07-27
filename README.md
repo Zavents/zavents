@@ -16,7 +16,7 @@
     <h1>&nbsp; &lt;/ Contact &gt; </h1>
     <div align="left" dir="auto">
           <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//842814386191859722.gif" width=249 height=245 width="auto" align="right">
-            <a href="https://www.linkedin.com/in/zavents/" target="_blank" rel="nofollow">
+            <a href="https://www.linkedin.com/in/zavents/" target="_blank"">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
             </a> Linkedin <br>
             <a href="https://discord.com/users/zavents" target="_blank" rel="nofollow">
