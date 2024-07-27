@@ -38,10 +38,9 @@
             </a> Twitter <br>
             <br> <br> <br>
       </div>
-      
     </p> 
     <p float="left">
-  <img src="https://media1.tenor.com/m/xPhYCnOMgK8AAAAd/fuuka-blue-archive.gif" width=249 height=245 width="auto" align="right">
+  <img src="https://tenor.com/view/blue-archive-hoshino-teary-eyes-gif-25817080" width=249 height=245 width="auto" align="right">
   <h1> &lt;/ Tech Stack &gt; </h1>
   <p float="left">
     <ul>
@@ -70,7 +69,4 @@
     </ul>
   </p>
 </p>
-
-<p float="left">
-  <img src="https://tenor.com/view/blue-archive-hoshino-teary-eyes-gif-25817080" align="right" width=350 >
 
