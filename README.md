@@ -17,24 +17,23 @@
           <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//842814386191859722.gif" width=249 height=245 width="auto" align="right">
             <a href="https://www.linkedin.com/in/zavents/" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
-            </a> <br>
+            </a> 
             <a href="https://discord.com/users/zavents" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="max-width: 100%;">
-            </a> <br>
+            </a> 
             <a href="https://www.youtube.com/channel/UCi0WyVZ-cVwIP-TCejYtMcA" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="max-width: 100%;">
-            </a> <br>
+            </a> 
             <a href="https://www.youtube.com/@zavents" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="max-width: 100%;">
-            </a> <br>
+            </a> 
             <a href="https://www.instagram.com/wldan_zf/" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="max-width: 100%;">
-            </a> <br>
+            </a>
             <a href="https://www.facebook.com/WildanZavents/" rel="nofollow"> 
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="max-width: 100%;">
-            </a> <br>
-   
-      <br> <br> <br>
+            </a> 
+            <br> <br> <br>
       </div>
     </p>
   </p>
