@@ -31,8 +31,8 @@
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="max-width: 100%;">
             </a> <br>
             <a href="https://www.facebook.com/WildanZavents/" rel="nofollow"> 
-              <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebok/default.svg" width="52" height="40" alt="instagram logo" style="max-width: 100%;">
-            </a><br>
+              <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="max-width: 100%;">
+            </a> <br>
    
       <br> <br> <br>
     </p>
