@@ -38,4 +38,39 @@
             </a> Twitter <br>
             <br> <br> <br>
       </div>
+      
     </p> 
+    <p float="left">
+  <img src="https://media1.tenor.com/m/xPhYCnOMgK8AAAAd/fuuka-blue-archive.gif" width=249 height=245 width="auto" align="right">
+  <h1> &lt;/ Tech Stack &gt; </h1>
+  <p float="left">
+    <ul>
+      <li> 
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+      </li>
+      <li>
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+      </li>
+      <li>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+      </li>
+      <li>
+        <img src="https://img.shields.io/badge/mySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+      </li>
+    </ul>
+  </p>
+</p>
+
+<p float="left">
+  <img src="https://tenor.com/view/blue-archive-hoshino-teary-eyes-gif-25817080" align="right" width=350 >
+
