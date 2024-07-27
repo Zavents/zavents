@@ -20,19 +20,22 @@
             </a> Linkedin <br>
             <a href="https://discord.com/users/zavents" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="max-width: 100%;">
-            </a> 
+            </a> Discord <br>
             <a href="https://www.youtube.com/channel/UCi0WyVZ-cVwIP-TCejYtMcA" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="max-width: 100%;">
-            </a> 
+            </a> Managing This Youtube <br>
             <a href="https://www.youtube.com/@zavents" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="max-width: 100%;">
-            </a> 
+            </a> My Actual Youtube <br>
             <a href="https://www.instagram.com/wldan_zf/" rel="nofollow">
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="max-width: 100%;">
-            </a>
+            </a> Instagram <br>
             <a href="https://www.facebook.com/WildanZavents/" rel="nofollow"> 
               <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="max-width: 100%;">
-            </a> 
+            </a> Facebook <br>
+            <a href="https://twitter.com/wildanzv/" rel="nofollow"> 
+              <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="max-width: 100%;">
+            </a> Twitter <br>
             <br> <br> <br>
       </div>
     </p>
