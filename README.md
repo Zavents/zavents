@@ -39,9 +39,7 @@
             </a> Twitter <br>
             <br> <br> <br>
       </div>
-    </p> 
-
-    
+    </p>  
 <!-- tech -->
     <p float="left">
   <img src="https://cdn.discordapp.com/attachments/906608326274609152/1266783574464528555/808829950840799292.gif?ex=66a667a3&is=66a51623&hm=7328351cb3576849148cb1ce6db71aa586229d721471df39f97a89de1d39699d&" width=249 height=245 width="auto" align="right">
