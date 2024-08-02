@@ -9,6 +9,7 @@
     <h1>&nbsp; &lt;/ Zavents &gt; </h1>
     Currently is a High School, majoring in software engineering at SMK Negeri 2 Pekanbaru <br/>
     Managing - <a href="https://rawkuma.com" target="_blank"> https://rawkuma.com </a>
+    Intern at - <a href="https://netviro.com" target="_blank"> https://netviro.com </a>
   </p>
   
  <!-- Contact -->
