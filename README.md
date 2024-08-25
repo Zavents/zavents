@@ -8,6 +8,7 @@
   <p float="left px-5">
     <h1>&nbsp; &lt;/ Zavents &gt; </h1>
     Currently is a Vocational High School student, majoring in software engineering at SMK Negeri 2 Pekanbaru <br/>
+    stuff - <a href="https://zavents.link" target="_blank"> https://zavents.link</a> <br>
     Managing - <a href="https://rawkuma.com" target="_blank"> https://rawkuma.com </a> <br>
      Managing - <a href="https://retsu.org" target="_blank"> https://retsu.org </a> <br>
     Intern at - <a href="https://netviro.com" target="_blank"> https://netviro.com </a>
