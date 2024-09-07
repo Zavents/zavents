@@ -3,8 +3,8 @@
   <a href="https://discord.com/users/zavents" target="_blank"><img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//discord.png" align="center" width="390"></a>
 
 <p float="left">
-<a href="https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(9px)"></a>
-    <img alt="discord" src="https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(9px)">
+<a href="https://lanyard.kyrie25.me/api/https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.5)%20blur(12px)"></a>
+    <img alt="discord" src="https://lanyard.kyrie25.me/api/https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.5)%20blur(12px)">
   <!-- Info -->
   <p float="left px-5">
     <h1>&nbsp; &lt;/ Zavents &gt; </h1>
