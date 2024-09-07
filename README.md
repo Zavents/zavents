@@ -1,7 +1,7 @@
 
 <p float="center">
   <a href="https://discord.com/users/zavents" target="_blank"><img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//discord.png" align="center" width="390"></a>
-
+[![Discord Presence](https://lanyard.kyrie25.me/api/zavents)](https://discord.com/users/zavents)
 <p float="left">
 
   <!-- Info -->
