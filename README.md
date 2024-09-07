@@ -1,5 +1,5 @@
 
-<p float="center">
+<p float="left">
   <a href="https://discord.com/users/zavents" target="_blank"><img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//discord.png" align="center" width="390"></a>
 
 <p float="left">
