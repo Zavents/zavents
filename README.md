@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <a href="https://discord.com/users/zavents" target="_blank">
-    <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//discord.png" align="center" width="390">
+    <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//discord.png" align="center" width="340">
   </a>
   
   <a href="https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.5)%20blur(12px)">
