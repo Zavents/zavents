@@ -1,9 +1,9 @@
 
 <p float="center">
   <a href="https://discord.com/users/zavents" target="_blank"><img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//discord.png" align="center" width="390"></a>
-https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(4px)
-<p float="left">
 
+<p float="left">
+https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(9px)
   <!-- Info -->
   <p float="left px-5">
     <h1>&nbsp; &lt;/ Zavents &gt; </h1>
