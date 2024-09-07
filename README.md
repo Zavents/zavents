@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center;">
-  <a href="https://discord.com/users/zavents" target="_blank" style="margin-right: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://discord.com/users/zavents" target="_blank">
     <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//discord.png" width="390">
   </a>
   
@@ -7,6 +7,7 @@
     <img alt="discord" src="https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.5)%20blur(12px)">
   </a>
 </div>
+
 
 
   <!-- Info -->
