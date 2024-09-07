@@ -1,8 +1,7 @@
 
 <p float="center">
   <a href="https://discord.com/users/zavents" target="_blank"><img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//discord.png" align="center" width="390"></a>
-[![Discord Presence](https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)
-)](https://discord.com/users/360256398933753856)
+[![Discord Presence](https://lanyard.kyrie25.me/api/360256398933753856?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px))](https://discord.com/users/360256398933753856)
 <p float="left">
 
   <!-- Info -->
