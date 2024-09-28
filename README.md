@@ -16,8 +16,8 @@
     <h1>&nbsp; &lt;/ Zavents &gt; </h1>
     Currently is a Vocational High School student, majoring in software engineering at SMK Negeri 2 Pekanbaru <br/>
     stuff - <a href="https://zavents.link" target="_blank"> https://zavents.link</a> <br>
-    Managing - <a href="https://rawkuma.com" target="_blank"> https://rawkuma.com </a> <br> - known as Tavenz
-     Managing - <a href="https://retsu.org" target="_blank"> https://retsu.org </a> <br> - known as Zavents
+    Managing - <a href="https://rawkuma.com" target="_blank"> https://rawkuma.com </a>  - known as Tavenz <br>
+     Managing - <a href="https://retsu.org" target="_blank"> https://retsu.org </a>  - known as Zavents <br>
     Intern at - <a href="https://netviro.com" target="_blank"> https://netviro.com </a>
   </p>
   
