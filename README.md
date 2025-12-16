@@ -22,7 +22,6 @@
   
  <!-- Contact -->
    <p float="left">
-    <h1>&nbsp; &lt;/ Contact &gt; </h1>
     <div align="left" dir="auto">
           <img src="https://cdn.kumacdn.club/wp-content/uploads/images/test-bro//842814386191859722.gif" width=249 height=245 width="auto" align="right">
       </div>
